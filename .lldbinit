@@ -1,0 +1,1 @@
+command alias -H "Print value in ObjC context as object" -h "Print ObjC object" -- cpo expression -O -l objc --
